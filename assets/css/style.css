@@ -111,6 +111,18 @@ tr {
 	padding: 0 0;
 	margin: 0 0;
 }
+.blackTileInput {
+	background-color: #313639;
+	width: 10px;
+	border-style: none;
+	margin: 0 0;
+	/*border-collapse: collapse;*/
+	border: none;
+	border-color: transparent;
+	text-transform: uppercase;
+	padding: 0 0;
+	margin: 0 0;
+}
 
 .whiteTilenumInput {
 	width: 10px;
